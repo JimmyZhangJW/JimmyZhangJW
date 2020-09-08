@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi I'm Jingwei Zhang, Nice to meet you here 👋
 
-<!--
-**JimmyZhangJW/JimmyZhangJW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Here is the brief info of me:
+---
+<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: <br>
+    Job searching, CMU course projects, A live-stream video sharing app, Teaching Assistant
+- 🌱 I’m currently learning Java, Golang
+- 👯 I’m looking to collaborate on meaningful open source projects
+- 🤔 I’m looking for help with Job searching :3
+- 💬 Ask me about the meaning of the life (42)
+- 📫 How to reach me: jzhang5@andrew.cmu.edu
+- ⚡ Fun fact: I'm losing weights during self-isolation time
