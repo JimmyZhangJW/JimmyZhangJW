@@ -1,6 +1,4 @@
-## Hi I'm Jingwei Zhang, Nice to meet you here 👋
-
-### Here is the brief info of me:
+Hi I'm Jingwei Zhang, Nice to meet you here 👋
 ---
 <br>
 
