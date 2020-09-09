@@ -14,8 +14,6 @@ Hi I'm Jingwei Zhang, Nice to meet you here 👋
 <br>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
-
 **🐱 My Github Data** 
 
 > 🏆 282 Contributions in the Year 2020
