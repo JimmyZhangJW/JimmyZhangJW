@@ -12,6 +12,8 @@ Hi I'm Jingwei Zhang, Nice to meet you here 👋
 - 📫 How to reach me: jzhang5@andrew.cmu.edu
 - ⚡ Fun fact: I'm losing weights during self-isolation time
 
+<br>
+<br>
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
