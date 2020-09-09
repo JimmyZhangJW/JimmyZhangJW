@@ -11,3 +11,6 @@ Hi I'm Jingwei Zhang, Nice to meet you here 👋
 - 💬 Ask me about the meaning of the life (42)
 - 📫 How to reach me: jzhang5@andrew.cmu.edu
 - ⚡ Fun fact: I'm losing weights during self-isolation time
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
