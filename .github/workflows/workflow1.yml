@@ -25,3 +25,4 @@ jobs:
           SHOW_EDITORS: False
           SHOW_LOC_CHART: False
           SHOW_LANGUAGE_PER_REPO: False
+          SHOW_DAYS_OF_WEEK: False
