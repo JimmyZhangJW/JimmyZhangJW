@@ -11,9 +11,8 @@ Hi I'm Jingwei Zhang, Nice to meet you here 👋
 - 💬 Ask me about the meaning of the life (42)
 - 📫 How to reach me: jzhang5@andrew.cmu.edu
 - ⚡ Fun fact: I'm losing weights during self-isolation time
+<br>
 
-<br>
-<br>
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
 
