@@ -22,7 +22,7 @@ Hi I'm Jingwei Zhang, Nice to meet you here 👋
  > 
 > 💼 Opted to Hire
  > 
-> 📜 8 Public Repositories
+> 📜 6 Public Repositories
  > 
 > 🔑 9 Private Repositories 
 
