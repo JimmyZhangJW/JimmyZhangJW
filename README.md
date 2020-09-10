@@ -18,11 +18,11 @@ Hi I'm Jingwei Zhang, Nice to meet you here 👋
 
 > 🏆 291 Contributions in the Year 2020
  > 
-> 📦 236.5 kB Used in Github's Storage 
+> 📦 230.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 6 Public Repositories
+> 📜 5 Public Repositories
  > 
 > 🔑 9 Private Repositories 
 
