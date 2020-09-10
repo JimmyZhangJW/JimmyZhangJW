@@ -1,4 +1,4 @@
-Hi I'm Jingwei Zhang, Nice to meet you here 👋
+Hi I'm Jingwei Zhang, nice to meet you here 👋
 ---
 <br>
 
@@ -8,7 +8,7 @@ Hi I'm Jingwei Zhang, Nice to meet you here 👋
 - 🌱 I’m currently learning Java, Golang
 - 👯 I’m looking to collaborate on meaningful open source projects
 - 🤔 I’m looking for help with Job searching :3
-- 💬 Ask me about the meaning of the life (42)
+- 💬 Ask me about the meaning of life (42)
 - 📫 How to reach me: jzhang5@andrew.cmu.edu
 - ⚡ Fun fact: I'm losing weights during self-isolation time
 <br>
@@ -41,16 +41,12 @@ Hi I'm Jingwei Zhang, Nice to meet you here 👋
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 45 mins        ███████████████░░░░░░░░░░   60.99% 
-C                        37 mins             █████░░░░░░░░░░░░░░░░░░░░   21.81% 
-JavaScript               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.75% 
-Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.17% 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92%
+Python                   1 hr 16 mins        ████████████████████████░   96.17% 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.83%
 
 🐱‍💻 Projects: 
-coding                   2 hrs 1 min         █████████████████░░░░░░░░   70.13% 
-a3_n9k0b_r9y9a           48 mins             ███████░░░░░░░░░░░░░░░░░░   28.1% 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.77%
+coding                   1 hr 16 mins        ████████████████████████░   96.17% 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.83%
 
 ```
 
