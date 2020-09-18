@@ -1,6 +1,5 @@
 Hi I'm Jingwei Zhang, nice to meet you here 👋
 ---
-[![time tracker](https://wakatime.com/badge/github/JimmyZhangJW/JimmyZhangJW.svg)]
 <br>
 
 
