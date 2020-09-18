@@ -1,5 +1,6 @@
 Hi I'm Jingwei Zhang, nice to meet you here 👋
 ---
+[![time tracker](https://wakatime.com/badge/github/JimmyZhangJW/JimmyZhangJW.svg)]
 <br>
 
 
@@ -12,6 +13,7 @@ Hi I'm Jingwei Zhang, nice to meet you here 👋
 - 📫 How to reach me: jzhang5@andrew.cmu.edu
 - ⚡ Fun fact: I'm losing weights during self-isolation time
 <br>
+
 
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
