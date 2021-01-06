@@ -42,10 +42,10 @@ Hi I'm Jingwei Zhang, nice to meet you here 👋
 
 ```text
 💬 Programming Languages: 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-grading-tool-kaggle-to-ca0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 ```
 
