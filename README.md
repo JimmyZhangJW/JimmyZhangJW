@@ -42,10 +42,10 @@ Hi I'm Jingwei Zhang, nice to meet you here 👋
 
 ```text
 💬 Programming Languages: 
-C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 ```
 
