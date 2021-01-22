@@ -42,10 +42,11 @@ Hi I'm Jingwei Zhang, nice to meet you here 👋
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        17 mins             █████████████████████████   99.6% 
+S                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+a3_n9k0b_r9y9a           17 mins             █████████████████████████   100.0%
 
 ```
 
