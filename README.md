@@ -17,7 +17,7 @@ Hi I'm Jingwei Zhang, nice to meet you here 👋
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 16 Contributions in the Year 2021
+> 🏆 18 Contributions in the Year 2021
  > 
 > 📦 240.5 kB Used in Github's Storage 
  > 
