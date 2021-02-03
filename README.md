@@ -5,7 +5,7 @@ Hi I'm Jingwei Zhang, nice to meet you here 👋
 
 - 🔭 I’m currently working on: <br>
     Job searching, CMU course projects, A live-stream video sharing app, Teaching Assistant
-- 🌱 I’m currently learning Java, Golang
+- 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on meaningful open source projects
 - 🤔 I’m looking for help with Job searching :3
 - 💬 Ask me about the meaning of life (42)
