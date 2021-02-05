@@ -19,7 +19,7 @@ Hi I'm Jingwei Zhang, nice to meet you here 👋
 
 > 🏆 40 Contributions in the Year 2021
  > 
-> 📦 244.7 kB Used in Github's Storage 
+> 📦 246.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
